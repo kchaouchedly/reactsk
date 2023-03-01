@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "PC Lenovo",
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+      "price": "1400",
+      "like": "8",
+      "img": "product1.webp",
+      "id": 1
+    },
+    {
+      "name": "chedly",
+      "description": "kchaou",
+      "price": "100",
+      "like": "1",
+      "img": "product3.jpg",
+      "id": 2
+    },
+    {
+      "name": "",
+      "price": 0,
+      "img": "product3.jpg",
+      "like": 0,
+      "quantity": 0,
+      "description": "",
+      "id": 4
+    }
+  ]
+}
